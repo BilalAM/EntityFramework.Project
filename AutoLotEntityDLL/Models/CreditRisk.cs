@@ -22,6 +22,7 @@ namespace AutoLotEntityDLL.Models
 
         [StringLength(50)]
         public string CustomerPhone { get; set; }
+       //a sample change
 
     }
 }
